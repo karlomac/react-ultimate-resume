@@ -1,68 +1,80 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Carlo Macasaet",
+        "label": "Senior Fullstack Developer",
         "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
-        "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+        "email": "karlo@lithiumtechnik.com",
+        "phone": "+63.988.7248570",
+        "website": "https://www.lithiumtechnik.com",
+        "summary": "A Resume of Carlo I Macasaet...",
+        "Senior Fullstack Developer": {
+            "address": "414 Citrine Building, West Service Road",
+            "postalCode": "1700",
+            "city": "Paranaque City",
+            "countryCode": "PH",
+            "region": "NCR"
         },
         "profiles": [
             {
                 "network": "twitter",
-                "username": "@john"
+                "username": "@paaralanco"
             },
             {
                 "network": "Portfolio",
-                "url": "https://myawesome.portfolio.rocket.fr"
+                "url": "https://www.lithiumtechnik.com"
             },
             {
-                "network": "codingame",
-                "username": "ed3ee82f9630e99db32dec093b2ca07a0368002"
-            }, {
                 "network": "github",
-                "username": "clementdevos"
+                "username": "karlomac"
             },
             {
                 "network": "linkedin",
-                "url": "https://www.linkedin.com/in/%F0%9F%A5%B3-cl%C3%A9ment-devos-4b832526/"
+                "url": "https://www.linkedin.com/in/karlomacsett/"
             }
         ]
     },
     "work": [
         {
-            "name": "Samsung Engineering",
-            "position": "3D Cad Engineer",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Lithiumtechnik.com",
+            "position": "Senior Fullstack Developer & Tech Advocate",
+            "website": "https://lithiumtechnik.com",
+            "startDate": "2018-01-01",
+            "summary": "Responsible for designing and leading a team of developers to build software applications to client specs",
+            "location": "Clearwater, Florida, USA",
+            "highlights": [
+                "Designed and Led a team to build a Human Resource and Recruitment System",
+                "Designed and Built an off-line first Learning platform for Primary School Students and teachers",
+                "Built SAAS Business Continuity Management System based on Laravel backend and Vue JS front-end, with Mobility access module"
+            ]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Hewlett Packard Enterprise Services",
+            "position": "Lotus Notes/Domino Level 3 Support",
+            "website": "https://hp.com",
+            "startDate": "2011-07-01",
+            "endDate": "2017-12-01",
+            "summary": "Supported enterprise client of HP (Alcatel-Lucent, based in France) to manage and maintain a network of 98 Lotus Domino Servers",
+            "location": "McKinley Hill, Metro Manila, Philippines",
+            "highlights": [
+                "Administer and Troubleshoot Lotus Domino replication issues with backend data systems such as SAP",
+                "Monitor Server Performance and Up-time",
+                "Manage Domino directory integration, sync with x500 global directory system",
+                "Manage and Resolve Incidents of Domino Applications and Servers",
+                "Manage and Deploy Change Management Process of Domino Applications and Servers"
+            ]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "IBM Global Services",
+            "position": "Lotus Notes Domino Developer",
+            "website": "http://www.ibm.com",
+            "summary": "Develop and Enhance internal IBM Lotus Domino Applications",
+            "location": "Eastwood City, Metro Manila, Philippines",
+            "highlights": [
+                "Work with new hires and trainees and mentor them to develop their skills in Domino Application Development",
+                "Advised on deployment and security of Lotus Domino servers into existing infrastructure",
+                "Work with core business IBM Philippines on consulting with new and existing clients for IBM Lotus Notes/Domino systems and application design",
+                "Designed and Implemented a new development methodology for Domino Applications to ensure efficient deployment and delivery"
+            ]
         }
     ],
     "volunteer": [
@@ -77,11 +89,11 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "institution": "Univeristy of Southern Queensland, AU",
+            "area": "Bachelor of Business",
+            "studyType": "Major in Commercial Computing",
+            "startDate": "1992-01-01",
+            "endDate": "1995-01-01",
             "gpa": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         },
@@ -97,62 +109,53 @@
     ],
     "awards": [
         {
-            "title": "Award",
+            "title": "Principal Lotus Notes/Domino Developer R5/R6",
             "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
+            "awarder": "IBM Australia",
+            "summary": "Achieved Principal Certification"
         }
     ],
     "skills": [
         {
-            "name": "React",
-            "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "Vue JS",
+            "level": "Advanced",
+            "value": 90,
+            "keywords": ["Vue","Vue JS","HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "Nuxt JS",
+            "level": "Advanced",
+            "value": 70,
+            "keywords": ["Nuxt","Nuxt JS","HTML", "CSS", "Javascript"]
         },
         {
             "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Firebase",
-            "level": "Master",
+            "level": "Intermediate",
             "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["Node","Node JS","HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "React JS",
+            "level": "Mid-level",
+            "value": 50,
+            "keywords": ["React","React JS","HTML", "CSS", "Javascript"]
         },
         {
-            "name": "K8S",
-            "level": "Master",
+            "name": "MySQL",
+            "level": "Advanced",
             "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["mySQL","SQL","Maria DB", "database", "RDBMS"]
+        },
+        {
+            "name": "MongoDB",
+            "level": "Mid-level",
+            "value": 50,
+            "keywords": ["MongoDB","MongoDB Atlas","database","no-sql","Atlas"]
         }
     ],
     "languages": [
         { "language": "English", "value": 100, "fluency": "Native speaker" },
-        { "language": "Italien", "value": 15, "fluency": "Native speaker" }
+        { "language": "Tagalog (Filipino)", "value": 100, "fluency": "Native speaker" }
     ],
     "interests": [
         {
@@ -183,17 +186,17 @@
             "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [{ "name": "Mr. Dennis Orcales", "reference": "Colleague, HP Enterprise Services" }],
     "projects": [
         {
-            "index": 5,
-            "date": { "month": 11, "year": 2019 },
-            "description": "Moteur de recherche via le nom de films réalisée avec ReactJs:\nRequête à l'Api rest avec Fetch, utilisation des hooks.\n",
+            "index": 1,
+            "date": { "month": "06", "year": 2018 },
+            "description": "Human Capital System\n",
             "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
             "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
-            "link": "https://lovely-movie.netlify.app/",
-            "name": "Lovely Movie",
-            "endDate": "2019-12-01"
+            "link": "https://hc.perithium.com/",
+            "name": "Human Capital by Perithium",
+            "endDate": "2020-12-01"
         },
         {
             "index": 2,
@@ -258,7 +261,7 @@
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
+            "visaSponsorship": false,
             "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
         },
         "dreamJob": {
@@ -281,7 +284,7 @@
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Learning React JS and Next JS."
     },
     "resumeCustomization": {
         "imageHeader": {
