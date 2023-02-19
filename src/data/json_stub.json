@@ -2,7 +2,7 @@
     "basics": {
         "name": "Carlo Macasaet",
         "label": "Senior Fullstack Developer",
-        "picture": "",
+        "picture": "https://www.lithiumtechnik.com/wp-content/uploads/2018/07/10169031_854044544612673_1260221883_n-1.jpg",
         "email": "karlo@lithiumtechnik.com",
         "phone": "+63.988.7248570",
         "website": "https://www.lithiumtechnik.com",
@@ -262,10 +262,10 @@
     "specific": {
         "basics": {
             "visaSponsorship": false,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "personalDescription": "I am a Software Developer for over 20 years.  I have worked for major corporations such as IBM and HP. I have held several roles in Software Development from Junior Developer to Project Manager and Product Manager.  I am passionate about software and what it can help businesses and individuals achieve.  It's what drives me to continually learn and build software applications."
         },
         "dreamJob": {
-            "locations": [{ "name": "Valenciennes, France" }, { "name": "Lille, France" }, { "name": "Paris,France" }],
+            "locations": [{ "name": "Valenciennes, France" }, { "name": "Lille, France" }, { "name": "Paranaque City, Philippines" }],
             "remoteFrequency": "regularly"
         },
         "currentJob": {
@@ -274,10 +274,10 @@
         "education": { "studiesLevel": null },
         "work": {
             "contractTypes": ["permanent", "freelance", "internship"],
-            "codingYears": 0,
+            "codingYears": 18,
             "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
             "searchState": "activelySearching",
-            "experienceYears": 0,
+            "experienceYears": 18,
             "codeExperienceYears": null,
             "otherExperienceYears": null
         },
